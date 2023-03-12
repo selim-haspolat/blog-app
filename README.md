@@ -1,5 +1,6 @@
 # Movie-App
 
+## About
 This project aims to create a blog page that provides to create blog to the user.But you cant add , change or delete post right now because of the api(JSON placeholder API)
 
 ## Live
